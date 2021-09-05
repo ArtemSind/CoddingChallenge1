@@ -2,7 +2,7 @@
 
 namespace CoddingChallenge1
 {
-    ///
+    
     public class LinkedList
     {
         public class Node // a node which contains a value
